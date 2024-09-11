@@ -1,3 +1,5 @@
+#เซิร์ฟเวอร์
+
 from flask import Flask
 from threading import Thread
 
